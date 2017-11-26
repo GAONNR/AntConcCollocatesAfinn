@@ -20,7 +20,7 @@ if __name__ == '__main__':
                 elif score < 0.0:
                     negative += int(line[1])
 
-            result = float(positive) / (positive + negative)
+            result = float(positive) / (positive + negative) if positive > 0 else 0.0
             total_positive += positive
             total_negative += negative
 
