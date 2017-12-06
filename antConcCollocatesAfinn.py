@@ -8,7 +8,7 @@ if __name__ == '__main__':
                   'garden', 'architecture', 'accessibility', 'traditional',
                   'sports', 'walking', 'photo', 'experience',
                   'festival', 'tranquil', 'trendy', 'religious',
-                  'accomodation']
+                  'accommodation', 'culture']
     total = list()
     for foldername in categories:
         total_positive = 0

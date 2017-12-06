@@ -1,0 +1,17 @@
+#Total No. of Collocate Types: 15
+#Total No. of Collocate Tokens: 620
+1	93	31	62	4.53347	the
+2	93	62	31	5.46631	and
+3	62	31	31	8.17868	history
+4	31	31	0	8.68457	sports
+5	31	31	0	9.32843	recreation
+6	31	0	31	9.28404	period
+7	31	0	31	4.29226	park
+8	31	0	31	4.12631	of
+9	31	31	0	8.21991	into
+10	31	0	31	8.37423	hanseong
+11	31	31	0	5.38299	for
+12	31	0	31	8.37423	environment
+13	31	0	31	6.75857	baekje
+14	31	31	0	7.78927	arts
+15	31	31	0	7.32843	ancient
